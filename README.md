@@ -1,5 +1,5 @@
-# Стейкхолдеры и их интерес
-[link to help.md](./3 Стейкхолдеры и интересы)
+# [Стейкхолдеры](https://github.com/OkulovDenis/-/blob/main/3%20%D0%A1%D1%82%D0%B5%D0%B9%D1%85%D0%BE%D0%BB%D0%B4%D0%B5%D1%80%D1%8B%20%D0%B8%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D1%8B.md#%D1%81%D1%82%D0%B5%D0%B9%D0%BA%D1%85%D0%BE%D0%BB%D0%B4%D0%B5%D1%80%D1%8B-%D0%B8-%D0%B8%D1%85-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D1%8B)
+
 
 
 
